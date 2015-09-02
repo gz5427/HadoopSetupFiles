@@ -6,6 +6,6 @@ I wrote a 3-part files explaining what steps need to take for a person who is to
 
 Step 1: Learn to setup Amazon EC2 Ubuntu machines.  This includes the tools needed such as PuTTY, PuTTYGen, WinSCP etc.
 
-Step 2: Create user hduser, setup keyless ssh from each machine to the other 2 machines.
+Step 2: Setup keyless ssh from each machine to the other 2 machines.
 
 Step 3. Download the Hadoop file, the java library and Prepare all the needed files for Hadoop cluster.
